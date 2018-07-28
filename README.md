@@ -1,6 +1,6 @@
 # DotNetCore - Azure Storage Demo
 
-This is a sample application showing how you can use [dotnet core](https://dotnet.github.io/) to write data to [Azure Storage](https://docs.microsoft.com/azure/storage/) using blobs.
+This is a sample application showing how you can use [dotnet core](https://dotnet.github.io/) to write data to [Azure Storage](https://docs.microsoft.com/azure/storage/) using blobs. The repository was created for the Elastacloud channels post [DotNetCore and Azure Storage](https://www.channels.elastacloud.com/channels/software-engineering/dotnetcore-and-azure-storage).
 
 To use the application you will need to create an `appsettings.json` file in the root with the following structure.
 
